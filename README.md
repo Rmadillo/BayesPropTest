@@ -39,9 +39,8 @@ different shapes of the beta distribution based on different parameter values
 can be seen at <a href="http://bit.ly/1hOWChG" target = "_blank">Rocscience</a>.  
 
 ### examples  
-<code>bayes.prop.test(n1=50, d1=100, n2=20, d2=50)  </code>  
+<code>bayes.prop.test(n1=50, d1=100, n2=20, d2=50)</code>
 
-<code># difference       p-hat        2.5%       97.5%  prob.diff>0  </code>  
+<code># difference       p-hat        2.5%       97.5%  prob.diff>0</code>
 
-<code># 0.10000000  0.09695006 -0.07072376  0.25873452  0.87380000</code>  
-
+<code># 0.10000000  0.09695006 -0.07072376  0.25873452  0.87380000</code>
