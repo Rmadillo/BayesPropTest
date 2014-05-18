@@ -1,0 +1,12 @@
+Package: BayesPropTest
+Title: Bayesian Test of the Difference Between Proportions
+Description: This function provides a simple way to perform a Bayesian version
+    of R's prop.test using the beta distribution.
+Version: 0.1
+Authors@R: c(person("Dwight", "Barry", role = c("aut", "cre"),
+    email = "dbarryanalytics@gmail.com"))
+Author: Dwight Barry <dbarryanalytics@gmail.com>
+Depends:
+    R (>= 3.0.2)
+License: GPL-3
+LazyData: true
