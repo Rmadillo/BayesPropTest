@@ -46,3 +46,6 @@ proportion *n2/d2* should be less than or equal to *n1/d1*.
 <tr><td># 0.10000000</td><td>0.09695006</td><td>-0.07072376 </td><td>0.25873452 </td><td>0.87380000</td><tr>
 </table>
 
+
+### author
+@Rmadillo
