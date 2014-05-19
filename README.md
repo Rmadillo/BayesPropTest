@@ -41,9 +41,8 @@ can be seen at <a href="http://bit.ly/1hOWChG" target = "_blank">Rocscience</a>.
 ### examples  
 `bayes.prop.test(n1=50, d1=100, n2=20, d2=50)`
 
-
 <table>
-<tr><code><td># difference</td><td>p-hat</td><td>2.5%</td><td>97.5%</td><td>prob.diff>0</td></code></tr>
-<tr><td># 0.10000000</td><td>0.09695006</td><td>-0.07072376 </td><td>0.25873452 </td><td>0.87380000`</td><tr>
+<tr><td><code># difference</code></td><td>p-hat</td><td>2.5%</td><td>97.5%</td><td>prob.diff>0</td></code></tr>
+<tr><td># 0.10000000</td><td>0.09695006</td><td>-0.07072376 </td><td>0.25873452 </td><td>0.87380000</td><tr>
 </table>
 
